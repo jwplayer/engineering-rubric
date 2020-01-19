@@ -1,9 +1,9 @@
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-	                              | INT(elligence)	                        | DEX(terity)	                        | WIS(dom)	                                    | CHA(risma)	                        | Experience
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Software Engineer - Entry Level	| Acquiring knowledge and basic skills.	| Tasks are small to medium in size and	| Performs tasks under supervision.	            | Effectively and positively communicates	| Less than 3 years experience. 
-	                              | Performs work that is more routine and	| duration.	                              | Receives direction, solutions and reviews of	| (oral & written) with peers.	      |
-						| does not require prior experience.	| Produces high quality work within	      | work.	                                    | Documents work appropriately.	      |
-	                              |	                                    | committed time frames.	            |                                               |                                         |						
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-							
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                    | INT(elligence)                           | DEX(terity)                              | WIS(dom)                                | CHA(risma)                               | Experience
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Software Engineer - Entry Level     | Acquiring knowledge and basic skills.    | Tasks are small to medium in size and    | Performs tasks under supervision.       | Effectively and positively communicates  | Less than 3 years experience. 
+                                    | Performs work that is more routine and   | duration.                                | Receives direction, solutions and       | (oral & written) with peers.             |
+                                    | does not require prior experience.       | Produces high quality work within        | reviews of work.                        | Documents work appropriately.            |
+                                    |                                          | committed time frames.                   |                                         |                                          |                                    
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
